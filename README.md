@@ -3,7 +3,8 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 This simple game written with processing3.<br>
-Click <a href="https://processing.org/"> here </a> to read more about **Processing3**.
+Click <a href="https://processing.org/"> here </a> to read more about **Processing3**.<br>
+Idrew a square fixed in place and you will see the square as it moving! How? I just make فhe background color changes from white to black gradually.
 
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
@@ -22,10 +23,7 @@ Black bg           | White bg
 :---------------------:|:------------------:
 ![screenshoot](screenshots/dd1.png) | ![screenshoot](screenshots/dd2.png) <br>
 
-## Video
-emonstration video
-:---------------------:
-![](screenshots/dd.mp4)
+
 ## Requirements
 * processing3
 
@@ -33,7 +31,7 @@ emonstration video
 1. Download Processing3 from this link: https://processing.org/download/
 2. Install this repository, click <a href="https://github.com/mohamedyanis/deception-diamond/archive/master.zip"> here </a> to install it.
 3. Extract the folder.
-4. Open the ```slicing.pde``` file.
+4. Open the ```diamond.pde``` file.
 5. Run it :)
 
 
